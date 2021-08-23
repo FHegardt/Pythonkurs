@@ -1,0 +1,3 @@
+# Pythonkurs
+
+Goddag!
